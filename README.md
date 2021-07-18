@@ -1,5 +1,4 @@
 Hi ! I'm Baptiste Salaün a 19 year old French young adult
-- If we meet we could talk about games, movies or 70' Rock bands no one remember 
 - I'm learning web development languages and UI/UX basics
 - You can contact me here (in english or french): 
 
