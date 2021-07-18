@@ -1,7 +1,7 @@
-Hi ! I'm Baptiste Salaün a 19 years old french young adult
+Hi ! I'm Baptiste Salaün a 19 year old French young adult
 - If we meet we could talk about games, movies or 70' Rock bands no one remember 
 - I'm learning web development languages and UI/UX basics
-- You can contact me at my email address for professional opportunities here (in english or french): 
+- You can contact me here (in english or french): 
 
   baptiste.salaun7818@gmail.com 
   
