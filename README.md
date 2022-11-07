@@ -1,4 +1,4 @@
-Hi ! I'm Baptiste Salaün a 19 year old French who likes rock bands with a 70' vibe and a name who can't fit in 280 character
+Hi ! I'm Baptiste Salaün
 - I'm learning web development languages and UI/UX basics
 - You can contact me here (in english or french): 
 
