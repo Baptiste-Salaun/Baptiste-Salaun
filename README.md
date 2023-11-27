@@ -1,6 +1,5 @@
 Hi ! I'm Baptiste Salaün
-- I'm learning web development languages and UI/UX basics
-- You can contact me here (in english or french): 
+You can contact me here (FR/EN): 
 
   baptiste.salaun7818@gmail.com 
   
